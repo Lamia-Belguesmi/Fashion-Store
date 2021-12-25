@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![Fashion Store](https://user-images.githubusercontent.com/65131757/147386028-153cbede-feff-42ec-aecd-0f2933786310.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
